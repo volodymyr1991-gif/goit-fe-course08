@@ -216,7 +216,7 @@ img {
   border-radius: 30px;
   font-family: "Montserrat";
   font-weight: 700;
-
+  cursor: pointer;
   width: 94px;
   height: 40px;
 }
@@ -271,6 +271,7 @@ img {
   font-family: "Montserrat";
   color: rgb(255, 255, 255);
   font-weight: 700;
+  cursor: pointer;
 }
 
 /*PARTNERS SECTION */
@@ -377,7 +378,9 @@ img {
   font-family: "Montserrat";
   color: rgb(255, 78, 80);
   font-weight: bold;
+  cursor: pointer;
 }
+
 .box {
   display: flex;
   justify-content: center;
